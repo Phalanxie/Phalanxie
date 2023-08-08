@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phalanxie
-- 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ... Kotlin
+- 👀 I’m interested in ... idek atp
+- 🌱 I’m currently learning ... whatever
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... hecksbawks@outlook.com
 
