@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phalanxie
 - 👀 I’m interested in ... gamedev, security!
-- 🌱 I’m currently learning ... UE5, Comptia Security+!
-- 💞️ I’m looking to collaborate on ... anything!
+- 🌱 I’m currently learning ... UE5, Comptia Security+, C++ (for the 35th time)!
+- 💞️ I’m looking to collaborate on ... game projects!
 - 📫 How to reach me ... romkaicode@proton.me
 
 <!---
